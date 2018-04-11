@@ -1,0 +1,13 @@
+; program
+notepad.exe, メモ帳 memo
+c:\Program Files, program install binary
+https://tools.ietf.org/html/rfc7231, rfc http 1.1 protocol
+
+; copy string
+!mail ma!this_is_my_address@example.com
+!tokyo tochosya address!東京都新宿区西新宿二丁目8番1号
+
+; system command
+@dir
+@edit
+@quit

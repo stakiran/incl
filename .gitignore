@@ -1,0 +1,10 @@
+# dist dir
+dist_*/
+
+# specific preferences
+build_preferences.bat
+
+# datafile
+*.txt
+# but not ignore samples
+!*sample*.txt

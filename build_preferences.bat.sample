@@ -1,0 +1,9 @@
+@echo off
+
+rem Set Tkinter pathes of your environment.
+set TCL_LIBRARY=(PythonDir)\tcl\tcl(TclVersion)
+set TK_LIBRARY=(PythonDir)\tcl\tk(TkVersion)
+
+rem Set Tkinter DLLs path od your environment.
+set TCL_DLL_PATH=(PythonDir)\DLLs\tcl(TclVersion)t.dll
+set TK_DLL_PATH=(PythonDir)\DLLs\tk(TkVersion)t.dll
