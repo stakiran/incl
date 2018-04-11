@@ -93,7 +93,7 @@ optional arguments:
 ## Build
 [cx_Freeze](https://anthony-tuininga.github.io/cx_Freeze/) でビルドしています。
 
-- [build_preferences.bat.sample](build_preferences.bat.sample) を [build_preferences.bat](build_preferences.bat) にリネーム後、設定を埋める
+- [build_preferences.bat.sample](build_preferences.bat.sample) を build_preferences.bat にリネーム後、設定を埋める
 - [build.bat](build.bat) を実行する
 
 ## License
