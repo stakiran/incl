@@ -8,3 +8,5 @@ build_preferences.bat
 *.txt
 # but not ignore samples
 !*sample*.txt
+# and requirements.txt
+!requirements.txt
