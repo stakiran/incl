@@ -96,6 +96,9 @@ optional arguments:
 - [build_preferences.bat.sample](build_preferences.bat.sample) を build_preferences.bat にリネーム後、設定を埋める
 - [build.bat](build.bat) を実行する
 
+## Version History
+[HISTORY](HISTORY.md)
+
 ## License
 [MIT License](LICENSE)
 
